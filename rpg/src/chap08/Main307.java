@@ -23,10 +23,10 @@ public class Main307 {
 		m2.suffix = 'B';
 		
 		//勇者デクのメソッドを呼び出していく
-		deku.sit(5);
-		deku.slip();
-		deku.sit(25);
-		deku.run();
+		//deku.sit(5);
+		//deku.slip();
+		//deku.sit(25);
+		//deku.run();
 		//おばけキノコよ！この世界にうまれよ！
 		//勇者よ、戦え！
 		//お化けきのこよ、逃げろ！
